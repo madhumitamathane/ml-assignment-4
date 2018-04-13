@@ -14,3 +14,9 @@ For part 2, run:
 ```
 python ./Part-2_Sales_Model.py <PATH_TO_DATA>
 ```
+
+For part 3, run:
+
+```
+python ./Part-3_Concrete_Model.py <PATH_TO_DATA>
+```
